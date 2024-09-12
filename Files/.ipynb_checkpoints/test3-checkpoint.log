@@ -1,0 +1,3 @@
+2024-09-12 19:49:05,187 root ERROR This is my error logging
+2024-09-12 19:49:05,188 root CRITICAL This is my critical logging
+2024-09-12 19:49:05,188 root WARNING This is my warning logging

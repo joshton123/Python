@@ -1,0 +1,27 @@
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 2c1a24a6-f668-4ad2-9f97-28fe6e61e778
+INFO:root:Log this line of execution
+INFO:root:This is my print-joshton
+INFO:root:Log this line of execution
+INFO:root:This is my print-joshton
+ERROR:root:This is my error
+INFO:root:This is my info logging
+ERROR:root:This is my error logging
+CRITICAL:root:This is my critical logging
+WARNING:root:This is my warning logging
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0df1e5ec-0748-4f88-b207-ae6401eeb86a
+INFO:root:This is my info logging
+ERROR:root:This is my error logging
+CRITICAL:root:This is my critical logging
+WARNING:root:This is my warning logging
+INFO:root:This is my print-joshton
+ERROR:root:This is my error
+INFO:root:This is my info logging
+ERROR:root:This is my error logging
+CRITICAL:root:This is my critical logging
+WARNING:root:This is my warning logging
+INFO:root:This is my info logging
+ERROR:root:This is my error logging
+CRITICAL:root:This is my critical logging
+WARNING:root:This is my warning logging

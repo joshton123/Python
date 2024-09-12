@@ -1,0 +1,104 @@
+2024-09-12 19:49:05,187 root ERROR This is my error logging
+2024-09-12 19:49:05,188 root CRITICAL This is my critical logging
+2024-09-12 19:49:05,188 root WARNING This is my warning logging
+2024-09-12 19:50:15,385 root INFO Hello this is info
+2024-09-12 19:50:35,069 root INFO Hello this is info
+2024-09-12 19:55:34,151 root INFO We are iterating through our list 
+2024-09-12 19:55:34,152 root INFO We are inside the elif type and checking it
+2024-09-12 19:55:34,152 root INFO We are iterating through our list 
+2024-09-12 19:55:34,152 root INFO We are inside the elif type and checking it
+2024-09-12 19:55:34,152 root INFO We are iterating through our list 
+2024-09-12 19:55:34,152 root INFO We are inside the elif type and checking it
+2024-09-12 19:55:34,153 root INFO We are iterating through our list 
+2024-09-12 19:55:34,154 root INFO We are inside the lsit type 
+2024-09-12 19:55:34,154 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:55:34,154 root INFO checking the if for the int 
+2024-09-12 19:55:34,154 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:55:34,154 root INFO checking the if for the int 
+2024-09-12 19:55:34,154 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:55:34,154 root INFO checking the if for the int 
+2024-09-12 19:55:34,154 root INFO We are iterating through our list 
+2024-09-12 19:55:34,154 root INFO We are iterating through our list 
+2024-09-12 19:56:05,190 root INFO Hello this is info
+2024-09-12 19:56:06,200 root INFO We are iterating through our list 
+2024-09-12 19:56:06,200 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:06,201 root INFO We are iterating through our list 
+2024-09-12 19:56:06,201 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:06,201 root INFO We are iterating through our list 
+2024-09-12 19:56:06,201 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:06,201 root INFO We are iterating through our list 
+2024-09-12 19:56:06,201 root INFO We are inside the lsit type 
+2024-09-12 19:56:06,201 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:06,201 root INFO checking the if for the int 
+2024-09-12 19:56:06,202 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:06,202 root INFO checking the if for the int 
+2024-09-12 19:56:06,202 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:06,202 root INFO checking the if for the int 
+2024-09-12 19:56:06,202 root INFO We are iterating through our list 
+2024-09-12 19:56:06,202 root INFO We are iterating through our list 
+2024-09-12 19:56:14,431 root INFO Hello this is info
+2024-09-12 19:56:16,396 root INFO We are iterating through our list 
+2024-09-12 19:56:16,397 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:16,398 root INFO We are iterating through our list 
+2024-09-12 19:56:16,398 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:16,398 root INFO We are iterating through our list 
+2024-09-12 19:56:16,398 root INFO We are inside the elif type and checking it
+2024-09-12 19:56:16,398 root INFO We are iterating through our list 
+2024-09-12 19:56:16,398 root INFO We are inside the lsit type 
+2024-09-12 19:56:16,398 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:16,398 root INFO checking the if for the int 
+2024-09-12 19:56:16,398 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:16,398 root INFO checking the if for the int 
+2024-09-12 19:56:16,398 root INFO We are inside the lsit type inside a for loop-2 
+2024-09-12 19:56:16,398 root INFO checking the if for the int 
+2024-09-12 19:56:16,399 root INFO We are iterating through our list 
+2024-09-12 19:56:16,399 root INFO We are iterating through our list 
+2024-09-12 19:58:14,287 root INFO We are iterating through our list 1
+2024-09-12 19:58:14,288 root INFO We are inside the elif type and checking it1
+2024-09-12 19:58:14,288 root INFO We are iterating through our list 2
+2024-09-12 19:58:14,288 root INFO We are inside the elif type and checking it2
+2024-09-12 19:58:14,288 root INFO We are iterating through our list 3
+2024-09-12 19:58:14,288 root INFO We are inside the elif type and checking it3
+2024-09-12 19:58:14,288 root INFO We are iterating through our list [6, 7, 8]
+2024-09-12 19:58:14,288 root INFO We are inside the lsit type [6, 7, 8]
+2024-09-12 19:58:14,288 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:58:14,288 root INFO checking the if for the int [6, 7, 8]
+2024-09-12 19:58:14,288 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:58:14,288 root INFO checking the if for the int [6, 7, 8]
+2024-09-12 19:58:14,289 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:58:14,289 root INFO checking the if for the int [6, 7, 8]
+2024-09-12 19:58:14,289 root INFO We are iterating through our list joshton
+2024-09-12 19:58:14,289 root INFO We are iterating through our list sequeira
+2024-09-12 19:59:19,756 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,756 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,756 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,757 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,757 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,758 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,758 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,758 root INFO We are inside the lsit type [6, 7, 8]
+2024-09-12 19:59:19,758 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:19,758 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,758 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:19,758 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,759 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:19,759 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,759 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:19,759 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,741 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,741 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,741 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,742 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,742 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,742 root INFO We are inside the elif type and checking it[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,742 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,742 root INFO We are inside the lsit type [6, 7, 8]
+2024-09-12 19:59:50,743 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:50,743 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,743 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:50,743 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,743 root INFO We are inside the lsit type inside a for loop-2 [6, 7, 8]
+2024-09-12 19:59:50,743 root INFO checking the if for the int[1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,744 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,744 root INFO We are iterating through our list [1, 2, 3, [6, 7, 8], 'joshton', 'sequeira']
+2024-09-12 19:59:50,744 root INFO DONE !!!
